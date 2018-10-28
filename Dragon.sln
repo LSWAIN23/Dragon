@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dragon", "..\SoloProj\Dragon\Dragon\Dragon.csproj", "{A35713D4-FD6B-4E61-88A7-6F53746C5BA2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dragon", "Dragon\Dragon.csproj", "{A35713D4-FD6B-4E61-88A7-6F53746C5BA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

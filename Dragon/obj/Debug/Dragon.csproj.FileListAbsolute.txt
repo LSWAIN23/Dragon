@@ -1,0 +1,14 @@
+C:\Users\Swain's\Desktop\SoloProj\Dragon\Dragon\bin\Debug\Dragon.exe.config
+C:\Users\Swain's\Desktop\SoloProj\Dragon\Dragon\bin\Debug\Dragon.exe
+C:\Users\Swain's\Desktop\SoloProj\Dragon\Dragon\bin\Debug\Dragon.pdb
+C:\Users\Swain's\Desktop\SoloProj\Dragon\Dragon\obj\Debug\Dragon.csprojAssemblyReference.cache
+C:\Users\Swain's\Desktop\SoloProj\Dragon\Dragon\obj\Debug\Dragon.csproj.CoreCompileInputs.cache
+C:\Users\Swain's\Desktop\SoloProj\Dragon\Dragon\obj\Debug\Dragon.exe
+C:\Users\Swain's\Desktop\SoloProj\Dragon\Dragon\obj\Debug\Dragon.pdb
+C:\Users\Swain's\Desktop\DoneProj\dragon\Dragon\bin\Debug\Dragon.exe.config
+C:\Users\Swain's\Desktop\DoneProj\dragon\Dragon\bin\Debug\Dragon.exe
+C:\Users\Swain's\Desktop\DoneProj\dragon\Dragon\bin\Debug\Dragon.pdb
+C:\Users\Swain's\Desktop\DoneProj\dragon\Dragon\obj\Debug\Dragon.csprojAssemblyReference.cache
+C:\Users\Swain's\Desktop\DoneProj\dragon\Dragon\obj\Debug\Dragon.csproj.CoreCompileInputs.cache
+C:\Users\Swain's\Desktop\DoneProj\dragon\Dragon\obj\Debug\Dragon.exe
+C:\Users\Swain's\Desktop\DoneProj\dragon\Dragon\obj\Debug\Dragon.pdb
